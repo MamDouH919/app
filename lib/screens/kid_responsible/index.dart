@@ -1,0 +1,1 @@
+export 'kidResponsible.dart';
